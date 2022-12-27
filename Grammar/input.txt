@@ -1,0 +1,11 @@
+S T /
+a b c + - /
+S
+S aT 
+S bT
+S cT
+T +S
+T -S
+S a
+S b
+S c
